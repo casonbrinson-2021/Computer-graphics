@@ -17,6 +17,8 @@ A collection of simple website design HTML files styled with CSS and given funci
 
 ### Project 1
 
+<img src="drawing.jpg" style="width:200px;"/>
+
 
 
 
